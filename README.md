@@ -34,3 +34,5 @@ To test your setup:
     AWS Lambda will automatically trigger and convert the image into BMP, GIF, and PNG formats.
 
     Converted files will appear in your specified output S3 bucket.
+
+git config --global --add safe.directory E:/HSA13/HSA13_hw27_Serverless_calculations
